@@ -4,12 +4,12 @@ Perfect designing package
 
 # Installation
 
-`npm i givingShadow -- save`
+`npm i jbot-shadows -- save`
 
 Then...
 
 ```
-import {givingShadow} from 'givingShadow'
+import {givingShadow} from 'jbot-shadows'
 
 givingShadow({
     shadow_type:'soft',

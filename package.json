@@ -1,0 +1,22 @@
+{
+  "name": "jbot-shadows",
+  "version": "1.0.0",
+  "description": "For using experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Temur01/go.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "Temur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Temur01/go/issues"
+  },
+  "homepage": "https://github.com/Temur01/go#readme"
+}
